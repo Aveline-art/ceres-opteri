@@ -1,6 +1,6 @@
 # ceres-opteri
 
-Ceres Opteri (or anagram for Recipe Store) is a static website for recipes.
+[Ceres Opteri](https://aveline-art.github.io/ceres-opteri/) (or anagram for Recipe Store) is a static website for recipes.
 
 ## Instructions
 
