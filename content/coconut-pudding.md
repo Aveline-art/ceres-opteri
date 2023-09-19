@@ -1,6 +1,6 @@
 Title: Coconut Pudding
 Date: 2023-09-13
-Category: Review
+Category: Recipe
 
 # Tools needed
 
