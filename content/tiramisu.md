@@ -2,38 +2,38 @@ Title: Tiramisu
 Date: 2023-09-18
 Category: Recipe
 
-# Tools needed
+## Tools needed
 
 -   Bowls (one of them needs to be fairly large for the whipped cream)
 -   Saucepan
 -   Whisk
 -   Tall baking dish to hold the assembled tiramisu
 
-# Ingredients
+## Ingredients
 
-## Crème anglaise
+### Crème anglaise
 
 -   3 egg yolk (egg whites can be scrambled for a snack)
 -   1/4 cup sugar
 -   1/2 cup of milk of your choice
 -   vanilla extract or vanilla bean
 
-## Whipped cream
+### Whipped cream
 
 -   3/4 cup of heavy cream
 -   1/4 cup of white sugar
 -   8oz pack of mascarpone cheese
 
-## Rest
+### Rest
 
 -   1 pack of lady fingers
 -   1 cup of your favorite cup of coffee or matcha tea
     -   When I make this for a friend, I usually ask them what their favorite coffee is
 -   cocoa powder or matcha powder
 
-# Directions
+## Directions
 
-## Crème anglaise
+### Crème anglaise
 
 1. Beat egg yolks until smooth in bowl.
 
@@ -49,7 +49,7 @@ Category: Recipe
 
 7. (Optional) Strain the completed creme anglaise. I usually do not do this because I hate cleaning the strainer, but it can improve texture.
 
-## Whipped cream
+### Whipped cream
 
 1. In a large bowl (larger than you'd expect), whisk heavy cream. Over time it would form into something thick. It's best to watch a video of how heavy cream is whipped.
 
@@ -59,7 +59,7 @@ Category: Recipe
 
 4. Whisk until stiff peaks.
 
-## Rest
+### Rest
 
 1. Carefully fold crème anglaise into whipped cream/mascarpone mixture.
 

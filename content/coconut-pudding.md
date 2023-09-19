@@ -2,22 +2,22 @@ Title: Coconut Pudding
 Date: 2023-09-13
 Category: Recipe
 
-# Tools needed
+## Tools needed
 
-- Bowls
-- A pot or pan
-- Something that can stir stuff like a metal spoon or a spatula
+-   Bowls
+-   A pot or pan
+-   Something that can stir stuff like a metal spoon or a spatula
 
-# Ingredients
+## Ingredients
 
-- 1/2 cup of hot water
-- 4 envelopes (about 1oz/28g total) of gelatine powder
-- 1 can (about 400ml) of coconut milk (can be lite)
-- 1 cup of milk (can be vegan)
-- your choice of sweetener (I use a mix of brown sugar, honey, and rock sugar)
-- vanilla extract
+-   1/2 cup of hot water
+-   4 envelopes (about 1oz/28g total) of gelatine powder
+-   1 can (about 400ml) of coconut milk (can be lite)
+-   1 cup of milk (can be vegan)
+-   your choice of sweetener (I use a mix of brown sugar, honey, and rock sugar)
+-   vanilla extract
 
-# Directions
+## Directions
 
 1. Stir the gelatine powder in hot water (hot water means boiled) until dissolved (or mostly dissolved).
 
